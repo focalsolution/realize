@@ -8,8 +8,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/oxequa/interact"
-	"github.com/oxequa/realize/realize"
+	"github.com/focalsolution/interact"
+	"github.com/focalsolution/realize/realize"
 	"github.com/urfave/cli/v2"
 )
 
