@@ -1,4 +1,4 @@
-module github.com/focalsolution/realize
+module github.com/focalsolution/realize/v2
 
 go 1.14
 
