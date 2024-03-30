@@ -9,7 +9,7 @@ import (
 	"time"
 
 	"github.com/focalsolution/interact"
-	"github.com/focalsolution/realize/realize"
+	"github.com/focalsolution/realize/v2/realize"
 	"github.com/urfave/cli/v2"
 )
 

@@ -7,7 +7,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/focalsolution/realize/realize"
+	"github.com/focalsolution/realize/v2/realize"
 )
 
 var mockResponse interface{}
